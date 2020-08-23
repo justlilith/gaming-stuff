@@ -35,7 +35,6 @@ Your successful melee touch attack causes the target to ignite in a violent burs
 
 
 #### Charm Person
-[back to top](#spells)
 
 Source: https://www.d20pfsrd.com/magic/all-spells/c/charm-person/
 
