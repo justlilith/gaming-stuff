@@ -61,7 +61,9 @@ The spell does not enable you to control the charmed person as if it were an aut
 [*back to top*](#spells)
 
 
-#### Read Magic (cantrip, sorceror lvl 1)
+#### Read Magic
+
+*(cantrip, sorceror lvl 1)*
 
 Source: https://www.d20pfsrd.com/magic/all-spells/d/detect-magic/
 
