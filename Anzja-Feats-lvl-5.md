@@ -40,11 +40,11 @@ Benefit: With a light weapon, elven curve blade, rapier, whip, or spiked chain m
 Special: Natural weapons are considered light weapons.
 
 > Editor’s Note
-
+>
 > Source: http://www.amazon.com/gp/product/1601251505/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601251505&linkCode=as2&tag=httpwwwd20pfs-20/faq#v5748eaic9ojt
-
+>
 > If I have Weapon Finesse, can I apply my Dex bonus to my combat maneuver checks instead of my Strength bonus?
-
+>
 > It depends on what combat maneuver you’re attempting. Disarm, sunder, and trip are normally the only kinds of combat maneuvers in which you’re actually using a weapon to perform the maneuver, and therefore the weapon’s bonuses apply to the roll. Therefore, if you’re attempting a disarm, sunder, or trip maneuver, you can apply your Dex bonus instead of your Str mod on the combat maneuver check (assuming you’re using a finessable weapon, of course). For other combat maneuvers, you use the normal rule for determining CMB ( Str instead of Dex).
-
+>
 > The Agile Maneuvers feat applies to all combat maneuvers, not just disarm, sunder, and trip, so it is still a useful option for a Dex-based creature that uses combat maneuvers.
