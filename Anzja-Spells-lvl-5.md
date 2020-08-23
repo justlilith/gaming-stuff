@@ -9,6 +9,8 @@
 - Mage Hand (lvl 0)
 - Ghost Sound (lvl 0)
 
+Note: Add CHA modifier to damage because sorceror~
+
 #### Touch of Combustion
 
 Note: roll 1d20, plus base attack and other bonuses. You must meet or exceed the enemy's AC.
