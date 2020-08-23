@@ -4,7 +4,7 @@
 - Evasion (no damage on reflex success)
 - Trapfinding (+1 bonus)
 - [Trap Sense](#trap-sense-ex)
-- [Trap Spotter (auto perception check @ 10 ft from trap)](#trap-spotter)
+- [Trap Spotter (auto perception check @ 10 ft from trap)](#trap-spotter-ex)
 - [Shadow Blending](#shadow-blending-su)
 - [Disguise Self (1/day)](#disguise-self)
 - [Whispers From Shadow (+4 bluff when lying)](#whispers-from-shadow)
