@@ -11,6 +11,8 @@
 
 #### Touch of Combustion
 
+Note: roll 1d20, plus base attack and other bonuses. You must meet or exceed the enemy's AC.
+
 Source: https://www.d20pfsrd.com/magic/all-spells/t/touch-of-combustion/
 
 School evocation [fire]; Level bloodrager 1, druid 1, inquisitor 1, magus 1, psychic 1, sorcerer/wizard 1, witch 1
