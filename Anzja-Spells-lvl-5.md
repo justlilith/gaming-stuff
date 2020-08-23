@@ -9,9 +9,9 @@
 - Mage Hand (lvl 0)
 - Ghost Sound (lvl 0)
 
-#### Touch of Combustion [top](#spells)
+#### Touch of Combustion
 
-source: [https://www.d20pfsrd.com/magic/all-spells/t/touch-of-combustion/]
+Source: https://www.d20pfsrd.com/magic/all-spells/t/touch-of-combustion/
 
 School evocation [fire]; Level bloodrager 1, druid 1, inquisitor 1, magus 1, psychic 1, sorcerer/wizard 1, witch 1
 
@@ -31,10 +31,13 @@ DESCRIPTION
 
 Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6 points of fire damage. If it fails its saving throw, the target also catches on fire. If the target catches fire, on the first round thereafter, creatures adjacent to it (including you) must each succeed at a Reflex save or take 1d4 points of fire damage.
 
+[*back to top*](#spells)
 
-#### Charm Person [top](#spells)
 
-source: [https://www.d20pfsrd.com/magic/all-spells/c/charm-person/]
+#### Charm Person
+[back to top](#spells)
+
+Source: https://www.d20pfsrd.com/magic/all-spells/c/charm-person/
 
 School enchantment (charm) [mind-affecting]; Level bard 1, psychic 1, shaman 1, sorcerer/wizard 1, witch 1; Domain charm 1; Subdomain slavery 1; Elemental School wood 1
 
@@ -56,10 +59,12 @@ This charm makes a humanoid creature regard you as its trusted friend and ally (
 
 The spell does not enable you to control the charmed person as if it were an automaton, but it perceives your words and actions in the most favorable way. You can try to give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn’t ordinarily do. (Retries are not allowed.) An affected creature never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing. Any act by you or your apparent allies that threatens the charmed person breaks the spell. You must speak the person’s language to communicate your commands, or else be good at pantomiming.
 
+[*back to top*](#spells)
 
-#### Read Magic (cantrip, sorceror lvl 1) [top](#spells)
 
-source: [https://www.d20pfsrd.com/magic/all-spells/d/detect-magic/]
+#### Read Magic (cantrip, sorceror lvl 1)
+
+Source: https://www.d20pfsrd.com/magic/all-spells/d/detect-magic/
 
 School divination; Level bard 0, cleric/oracle 0, druid 0, inquisitor 0, magus 0, psychic 0, shaman 0, sorcerer/wizard 0, summoner/unchained summoner 0, witch 0
 
@@ -104,10 +109,12 @@ Outsiders and elementals are not magical in themselves, but if they are summoned
 
 Detect magic can be made permanent with a permanency spell.
 
+[*back to top*](#spells)
 
-#### Detect Magic (cantrip, sorceror lvl 1) [top](#spells)
 
-source: [https://www.d20pfsrd.com/magic/all-spells/r/read-magic/]
+#### Detect Magic (cantrip, sorceror lvl 1)
+
+Source: https://www.d20pfsrd.com/magic/all-spells/r/read-magic/
 
 School divination; Level antipaladin 1, bard 0, cleric/oracle 0, druid 0, inquisitor 0, magus 0, paladin 1, psychic 0, ranger 1, shaman 0, sorcerer/wizard 0, summoner/unchained summoner 0, witch 0
 
@@ -127,3 +134,5 @@ DESCRIPTION
 You can decipher magical inscriptions on objects – books, scrolls, weapons, and the like – that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once the spell is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic. You can read at the rate of one page (250 words) per minute. The spell allows you to identify a glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + spell level).
 
 Read magic can be made permanent with a permanency spell.
+
+[*back to top*](#spells)
