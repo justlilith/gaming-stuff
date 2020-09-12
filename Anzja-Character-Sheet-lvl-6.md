@@ -1,12 +1,12 @@
 # Anzja!
 Fetchling Rogue
 
-Level 5
+Level 6
 
 Level 4 Rogue
-Level 1 Sorcerer
+Level 2 Sorcerer
 
-HP: 31 (5 from lvl 5 1d8)
+HP: 36 (5 from lvl 6 1d6 (sorcerer lvl 2))
 
 Name	Score	Modifier
 Str		8		-1
@@ -25,7 +25,7 @@ Fortitude:		2 (1 base save, 1 con modifier)
 Reflex:			8 (4 base save, 4 dex modifier)
 Will:			6 (1 base save, 3 wis modifier)
 
-Base attack bonus: 3 (lvl 4 Rogue)
+Base attack bonus: 4 (lvl 4 Rogue, lvl 2 sorcerer)
 CMB:	3 (3 base attack bonus)
 CMD:	18 (3 base attack bonus, 4 dex modifier)
 

@@ -7,7 +7,7 @@
 
 #### Eschew Materials
 
-*(lvl 1 Sorceror feat, character lvl 4)*
+*(lvl 1 Sorcerer feat, character lvl 4)*
 
 source: https://www.d20pfsrd.com/feats/general-feats/eschew-materials/
 

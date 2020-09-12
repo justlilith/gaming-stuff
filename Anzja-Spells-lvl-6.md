@@ -1,5 +1,6 @@
 # Spells
 
+- [Acid Splash (lvl 0)](#acid-splash)
 - [Touch of Combustion (lvl 1)](#touch-of-combustion)
 - [Charm Person (lvl 1)](#charm-person)
 - [Read Magic (lvl 0)](#read-magic)
@@ -14,6 +15,34 @@
 **Note: DC is 10 + 1 (caster level, so, sorcerer level) + 2 (ability modifier (cha)), so, 13 total @ lvl 5**
 
 **Note: Anzja's charisma is 15, so she has one lvl 1 bonus spell, and one lvl 2 bonus spell per day.**
+
+**Note: As a level 2 sorcerer, Anzja can cast 4 lvl 1 spells per day (plus bonuses).**
+
+
+#### Acid Splash
+
+source: https://www.d20pfsrd.com/magic/all-spells/a/acid-splash
+
+School conjuration (creation) [acid]; Level inquisitor 0, magus 0, sorcerer/wizard 0, summoner/unchained summoner 0; Elemental School earth 0
+
+CASTING
+
+Casting Time 1 standard action
+Components V, S
+
+EFFECT
+
+Range close (25 ft. + 5 ft./2 levels)
+Effect one missile of acid
+Duration instantaneous
+Saving Throw none; Spell Resistance no
+
+DESCRIPTION
+
+You fire a small orb of acid at the target. You must succeed on a ranged touch attack to hit your target. The orb deals 1d3 points of acid damage. This acid disappears after 1 round.
+
+[*back to top*](#spells)
+
 
 #### Touch of Combustion
 
