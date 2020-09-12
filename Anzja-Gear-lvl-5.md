@@ -14,12 +14,29 @@
 - Scroll of Fly, 0lbs
 - Scroll of Fireball, 0lbs
 - Buster Sword (masterwork), 0lbs (on Marilla)
+- String of Tear-Salted Leopard Meat
+- Belt of Mighty Constitution (+2 con, +5 HP)
+- Masterwork Dagger
 
 ## Money:
 
 - 3132 gold
 
 ## Weapons:
+
+*Dagger* (+1 bonus on attack rolls) d20, base attack, dex, +1
+
+>Cost 2 gp
+>Weight 1 lb.
+>Damage 1d3 (small), 1d4 (medium) Critical 19-20/x2 Type piercing or slashing
+>Range Increment 10 ft. (thrown)
+>Category light Proficiency simple
+>Weapon Groups light blades, thrown, tribal
+>
+>A dagger has a blade that is about 1 foot in length.
+>
+>Benefit: You get a +2 bonus on Sleight of Hand skill checks made to conceal a dagger on your body (see Using Skills).
+
 
 *Dagger*
 
@@ -75,3 +92,22 @@
 >Arcane Spell Failure Chance 0%; Speed 30 ft./20 ft.
 >
 >Also called a belly-warmer, a haramaki is a simple silken sash lined with chainmail or articulated metal plates and tied about the stomach to protect it.
+
+
+#### Note: Attack Bonus
+
+source: https://www.d20pfsrd.com/gamemastering/Combat/#Attack_Roll
+
+Your attack bonus with a melee weapon is:
+
+>Base attack bonus + Strength modifier + size modifier
+
+Your attack bonus with a ranged weapon is:
+
+>Base attack bonus + Dexterity modifier + size modifier + range penalty
+
+Base Attack Bonus
+
+Source: d20srd.org
+
+A base attack bonus is an attack roll bonus derived from character class and level or creature type and Hit Dice (or combination’s thereof). Base attack bonuses increase at different rates for different character classes and creature types. A second attack is gained when a base attack bonus reaches +6, a third with a base attack bonus of +11 or higher, and a fourth with a base attack bonus of +16 or higher. Base attack bonuses gained from different sources, such as when a character is a multiclass character, stack.

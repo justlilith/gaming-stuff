@@ -2,7 +2,7 @@
 
 - [Sneak Attack (2d6 bonus)](#sneak-attack)
 - Evasion (no damage on reflex success)
-- Trapfinding (+1 bonus)
+- [Trapfinding (+1 bonus)](#trapfinding)
 - [Trap Sense](#trap-sense-ex)
 - [Trap Spotter (auto perception check @ 10 ft from trap)](#trap-spotter-ex)
 - [Shadow Blending](#shadow-blending-su)
@@ -11,6 +11,19 @@
 - [Umbral Gear (lvl 4 Rogue Talent; make stuff in dim light)](#umbral-gear-su)
 - [Uncanny Dodge (can't be caught flat-footed)](#uncanny-dodge)
 - Thieve's Tools (+2 to Disable Device)
+
+
+#### Trapfinding
+
+*(class feature, lvl 1)*
+
+source: https://www.d20pfsrd.com/classes/core-classes/Rogue/#TOC-Trapfinding
+
+A rogue adds 1/2 her level to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
+
+e.g. lvl 5 = +2 bonus
+
+[*back to top*](#special-abilities)
 
 
 #### Sneak Attack

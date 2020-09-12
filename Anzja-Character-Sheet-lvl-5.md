@@ -57,3 +57,27 @@ Low-Light Vision: In addition to their ability to see perfectly in the dark up t
 
 **Favored Class Rogue**
 - Add a +1/2 bonus on Stealth and Sleight of Hand checks made while in dim light or darkness.
+
+
+
+
+# SORCEROR BLOODLINE STUFF
+
+source: https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/phoenix-sorcerer-bloodline/
+
+One of your ancestors bore witness to a phoenix’s resurrection and formed a bond with the magical creature.
+
+The resurrecting flames still course through your veins, surging with power.
+
+Class Skill: Knowledge (Arcana).
+
+Bonus Spells: Color spray (3rd), see invisibility (5th), magic circle against evil (7th), wall of fire (9th), break enchantment (11th), path of the winds (13th), firebrand (15th), prismatic wall (17th), fiery body (19th).
+
+Bonus Feats: Dodge, Elemental Focus (fire), Fast Healer, Improved Initiative, Iron Will, Mobility, Quicken Spell, Skill Focus (Knowledge [arcana]).
+
+Bloodline Arcana: When casting any spell that deals fire damage, you can instead heal your targets. The spell deals no damage, and living creatures affected by the spell instead regain a number of hit points equal to half the fire damage the spell would normally deal.
+
+Bloodline Powers: The phoenix is an elemental creature of sky and primal fire, and its blood within you sings with a similar power.
+
+The Unseen World (Su)
+At 1st level, you gain detect magic and read magic as spells known. At 5th level, the phoenix’s blood drives you to find and save lost knowledge and magical items. As a swift action, you can automatically identify the properties of a non-cursed magic item you hold; you must still identify a cursed item as normal to correctly identify it as cursed. You can use this ability a number of times equal to your Charisma modifier per day.

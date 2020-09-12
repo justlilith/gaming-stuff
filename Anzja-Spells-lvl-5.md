@@ -4,16 +4,24 @@
 - [Charm Person (lvl 1)](#charm-person)
 - [Read Magic (lvl 0)](#read-magic)
 - [Detect Magic (lvl 0)](#detect-magic)
-- Prestidigitation (make, clean, break stuff) (lvl 0)
-- Message (lvl 0)
+- [Prestidigitation (make, clean, break stuff) (lvl 0)](#prestidigitation)
+- [Message (lvl 0)](#message)
 - Mage Hand (lvl 0)
 - Ghost Sound (lvl 0)
 
-Note: Add CHA modifier to damage because sorceror~
+**Note: Add Cha modifier to damage because sorceror~**
+
+**Note: DC is 10 + 1 (caster level, so, sorceror level) + 2 (ability modifier (cha)), so, 13 total @ lvl 5**
+
+**Note: Anzja's charisma is 15, so she has one lvl 1 bonus spell, and one lvl 2 bonus spell per day.**
 
 #### Touch of Combustion
 
 Note: roll 1d20, plus base attack and other bonuses. You must meet or exceed the enemy's AC.
+
+Note: Saving throw is 10 + cha modifier
+
+Note: Damage is 1d6 + cha modifier
 
 Source: https://www.d20pfsrd.com/magic/all-spells/t/touch-of-combustion/
 
@@ -33,7 +41,7 @@ Saving Throw Reflex negates; see text; Spell Resistance yes
 
 DESCRIPTION
 
-Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6 points of fire damage. If it fails its saving throw, the target also catches on fire. If the target catches fire, on the first round thereafter, creatures adjacent to it (including you) must each succeed at a Reflex save or take 1d4 points of fire damage.
+Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing `1d6` points of fire damage. If it fails its saving throw, the target also catches on fire. If the target catches fire, on the first round thereafter, creatures adjacent to it (including you) must each succeed at a Reflex save or take `1d4` points of fire damage.
 
 [*back to top*](#spells)
 
@@ -139,5 +147,55 @@ DESCRIPTION
 You can decipher magical inscriptions on objects – books, scrolls, weapons, and the like – that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once the spell is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic. You can read at the rate of one page (250 words) per minute. The spell allows you to identify a glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + spell level).
 
 Read magic can be made permanent with a permanency spell.
+
+[*back to top*](#spells)
+
+
+#### Prestidigitation
+
+source: https://www.d20pfsrd.com/magic/all-spells/p/prestidigitation
+
+School universal; Level bard 0, magus 0, psychic 0, sorcerer/wizard 0
+
+CASTING
+
+Casting Time 1 standard action
+Components V, S
+
+EFFECT
+
+Range 10 ft.
+Target, Effect, or Area see text
+Duration 1 hour
+Saving Throw see text; Spell Resistance no
+
+DESCRIPTION
+
+Prestidigitations are minor tricks that novice spellcasters use for practice. Once cast, a prestidigitation spell enables you to perform simple magical effects for 1 hour. The effects are minor and have severe limitations. A prestidigitation can slowly lift 1 pound of material. It can color, clean, or soil items in a 1-foot cube each round. It can chill, warm, or flavor 1 pound of nonliving material. It cannot deal damage or affect the concentration of spellcasters. Prestidigitation can create small objects, but they look crude and artificial. The materials created by a prestidigitation spell are extremely fragile, and they cannot be used as tools, weapons, or spell components. Finally, prestidigitation lacks the power to duplicate any other spell effects. Any actual change to an object (beyond just moving, cleaning, or soiling it) persists only 1 hour.
+
+[*back to top*](#spells)
+
+
+#### Message
+
+source: https://www.d20pfsrd.com/magic/all-spells/m/message/
+
+School transmutation [language-dependent]; Level bard 0, psychic 0, sorcerer/wizard 0, summoner/unchained summoner 0, witch 0; Elemental School air 0
+
+CASTING
+
+Casting Time 1 standard action
+Components V, S, F (a piece of copper wire)
+
+EFFECT
+
+Range medium (100 ft. + 10 ft./level)
+Targets one creature/level
+Duration 10 min./level
+Saving Throw none; Spell Resistance no
+
+DESCRIPTION
+
+You can whisper messages and receive whispered replies. Those nearby can hear these messages with a DC 25 Perception check. You point your finger at each creature you want to receive the message. When you whisper, the whispered message is audible to all targeted creatures within range. Magical silence, 1 foot of stone, 1 inch of common metal (or a thin sheet of lead), or 3 feet of wood or dirt blocks the spell. The message does not have to travel in a straight line. It can circumvent a barrier if there is an open path between you and the subject, and the path’s entire length lies within the spell’s range. The creatures that receive the message can whisper a reply that you hear. The spell transmits sound, not meaning; it doesn’t transcend language barriers. To speak a message, you must mouth the words and whisper.
 
 [*back to top*](#spells)
