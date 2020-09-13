@@ -6,9 +6,9 @@ Level 6
 Level 4 Rogue
 Level 2 Sorcerer
 
-HP: 36 (5 from lvl 6 1d6 (sorcerer lvl 2))
+HP: 41 (5 from lvl 6 1d6 (sorcerer lvl 2), +5 from Belt)
 
-0912020: 29 (7 dmg)
+0912020: 34 (7 dmg)
 
 Name	Score	Modifier
 Str		8		-1
