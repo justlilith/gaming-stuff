@@ -13,19 +13,6 @@
 - Thieve's Tools (+2 to Disable Device)
 
 
-#### Trapfinding
-
-*(class feature, lvl 1)*
-
-source: https://www.d20pfsrd.com/classes/core-classes/Rogue/#TOC-Trapfinding
-
-A rogue adds 1/2 her level to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
-
-e.g. lvl 5 = +2 bonus
-
-[*back to top*](#special-abilities)
-
-
 #### Sneak Attack
 
 *(class feature, lvl 1)*
@@ -39,6 +26,19 @@ With a weapon that deals nonlethal damage (like a sap, whip, or an unarmed strik
 The rogue must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. A rogue cannot sneak attack while striking a creature with concealment.
 
 See Precision Damage & Critical Hits FAQ for more information.
+
+[*back to top*](#special-abilities)
+
+
+#### Trapfinding
+
+*(class feature, lvl 1)*
+
+source: https://www.d20pfsrd.com/classes/core-classes/Rogue/#TOC-Trapfinding
+
+A rogue adds 1/2 her level to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
+
+e.g. lvl 6 = +3 bonus
 
 [*back to top*](#special-abilities)
 

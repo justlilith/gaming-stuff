@@ -12,7 +12,7 @@
 
 **Note: Add Cha modifier to damage because sorcerer~**
 
-**Note: DC is 10 + 1 (caster level, so, sorcerer level) + 2 (ability modifier (cha)), so, 13 total @ lvl 5**
+**Note: DC is 10 + 2 (caster level, so, sorcerer level) + 2 (ability modifier (cha)), so, 14 total @ lvl 6**
 
 **Note: Anzja's charisma is 15, so she has one lvl 1 bonus spell, and one lvl 2 bonus spell per day.**
 

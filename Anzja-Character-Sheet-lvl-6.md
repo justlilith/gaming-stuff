@@ -8,10 +8,12 @@ Level 2 Sorcerer
 
 HP: 36 (5 from lvl 6 1d6 (sorcerer lvl 2))
 
+0912020: 29 (7 dmg)
+
 Name	Score	Modifier
 Str		8		-1
 Dex		18		4
-Con		10		0
+Con		10		+2 (Belt of Mighty Constitution)
 Int		13		-1
 Wis		16		3
 Cha		15		2

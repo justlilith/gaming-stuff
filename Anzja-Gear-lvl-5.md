@@ -17,14 +17,16 @@
 - String of Tear-Salted Leopard Meat
 - Belt of Mighty Constitution (+2 con, +5 HP)
 - Masterwork Dagger
+- Necklace from Klarkosh's finger
 
 ## Money:
 
 - 3132 gold
+- 3 platinum
 
 ## Weapons:
 
-*Dagger* (+1 bonus on attack rolls) d20, base attack, dex, +1
+*Masterwork Dagger* (+1 bonus on attack rolls) d20, base attack, dex, +1
 
 >Cost 2 gp
 >Weight 1 lb.
