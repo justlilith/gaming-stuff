@@ -8,7 +8,8 @@ Level 2 Sorcerer
 
 HP: 41 (5 from lvl 6 1d6 (sorcerer lvl 2), +5 from Belt)
 
-0912020: 34 (7 dmg)
+0912020: 34 (7 dmg from Trog)
+9192020: 18 (-16 from Salamander attack) (also Anzja is grabbed)
 
 Name	Score	Modifier
 Str		8		-1
