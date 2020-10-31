@@ -10,6 +10,9 @@
 - Mage Hand (lvl 0)
 - Ghost Sound (lvl 0)
 
+09192020 Spell Slots: 1 used, 5 spells available, since Touch of Combustion was used to heal
+10242020 6 spells available
+
 **Note: Add Cha modifier to damage because sorcerer~**
 
 **Note: DC is 10 + 2 (caster level, so, sorcerer level) + 2 (ability modifier (cha)), so, 14 total @ lvl 6**

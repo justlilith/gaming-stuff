@@ -8,8 +8,20 @@ Level 2 Sorcerer
 
 HP: 41 (5 from lvl 6 1d6 (sorcerer lvl 2), +5 from Belt)
 
-0912020: 34 (7 dmg from Trog)
-9192020: 18 (-16 from Salamander attack) (also Anzja is grabbed)
+09122020: 34 (7 dmg from Trog)
+09192020: 18 (-16 from Salamander attack) (also Anzja is grabbed)
+09192020: 26 (healed +8 from Hope)
+09192020: 41 (healed max from touch of combustion)
+09192020: 31 (-10 HP bit by snek)
+09192020: 20 (-11 HP bit by snek)
+09192020: 34 (+14 HP healed by Hope)
+09192020: 23 (-11 HP bit by snek)
+09192020: 22 (-1 HP hit by Tiyeri)
+09192020: 13 (-9 HP bit snake)
+09192020: 27 (+14 HP healed by Hope)
+09192020: 17 (-10 HP healed by Hope)
+09192020: 9 (-8 HP constricted by snek)
+10242020: 41 (healed max from touch of combustion, then long rest)
 
 Name	Score	Modifier
 Str		8		-1

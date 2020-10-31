@@ -3,6 +3,7 @@
 ## Rucksack:
 
 - Backpack, 2lbs
+- Bedroll
 - Thieve's Tools (masterwork), 2lbs
 - Waterskin, 0lbs
 - Rations, 1lb
@@ -19,6 +20,10 @@
 - Masterwork Dagger
 - Necklace from Klarkosh's finger, Salamander's finger
 - 2 Amulets of Kroakoth
+- Stone fang?
+- Death mask (worth 16000 GP)
+- Spellpouch
+- 7 copper pieces
 
 ## Money:
 
